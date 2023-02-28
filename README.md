@@ -1,16 +1,9 @@
-# video_player_app_new
+# Video Player App
 
 A new Flutter project.
 
-## Getting Started
+I've successfully completed the second project using #Fultter_Framework. with the help of flutter framework it's very easy to develop very beautiful app.
 
-This project is a starting point for a Flutter application.
+![Flutter Developer](https://user-images.githubusercontent.com/112762975/221923866-c94b1367-a370-4c39-8083-91dfbd48cc78.jpg)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
