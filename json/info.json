@@ -1,0 +1,18 @@
+[
+{
+    "title": "Chest",
+    "image": "assets/images/chest.png"
+},
+{
+    "title": "Abs",
+    "image": "assets/images/abs.png"
+},
+{
+    "title": "Legs",
+    "image": "assets/images/leg.png"
+},
+{
+    "title": "Arms",
+    "image": "assets/images/arms.png"
+}
+]

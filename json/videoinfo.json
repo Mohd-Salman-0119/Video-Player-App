@@ -1,0 +1,30 @@
+[
+    {
+        "title": "Squat and Walk",
+        "time": "45 seconds",
+        "thumbnail": "assets/images/video_img5.jpg",
+        "videoUrl" : "assets/video/production1.mp4"
+        
+    },
+     {
+        "title": "Pile Squat and Heel Raises",
+        "time": "55 seconds",
+        "thumbnail": "assets/images/video_img3.jpg",
+        "videoUrl" : "assets/video/productio2.mp4"
+        
+    },
+    {
+        "title": "Squat Kickback",
+        "time": "60 seconds",
+        "thumbnail": "assets/images/video_img1.jpg",
+        "videoUrl" : "assets/video/production3.mp4"
+        
+    },
+    {
+        "title": "Squat with Side Leg Lift ",
+        "time": "120 seconds",
+        "thumbnail": "assets/images/video_img2.jpg",
+        "videoUrl" : "assets/video/production4.mp4"
+        
+    }
+]
